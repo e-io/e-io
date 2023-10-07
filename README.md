@@ -1,4 +1,14 @@
-### Hi there 👋
+### 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒫𝒶𝓋𝑒𝓁
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 <!--
 **e-io/e-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
