@@ -8,7 +8,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+[![codewars](https://www.codewars.com/users/cool_earthman/badges/large)](https://www.codewars.com/users/cool_earthman)
 
 <!--
 **e-io/e-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
